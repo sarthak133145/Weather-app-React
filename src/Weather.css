@@ -1,0 +1,10 @@
+.weatherApp{
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.weatherInfo{
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+}
